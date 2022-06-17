@@ -1,4 +1,4 @@
-package com.kafka.util;
+package com.spring.kafka.util;
 
 public class AppConstants {
 //    public static final String TOPIC_NAME = "quickstart-topic";
